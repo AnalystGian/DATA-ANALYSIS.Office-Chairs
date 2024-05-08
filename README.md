@@ -8,12 +8,9 @@ to identify regional sales trends, popular product models, and customer preferen
 3. Create references between tables and search for information with VLOOKUP.
 4.Perform data analysis using PivotTables.
 
-## The Excel file includes 5 sheets:
-1. Project Objectives
-2. Sales Data
-3. Customer Info
-4. Pivot Table
-5. Dashboard
+## This project includes files:
+1. Sales Data Analysis (xlsx)
+2. Analysis Description (docx)
 
 ## Below are the steps done in this project:
 Task 1. Convert range to a table
